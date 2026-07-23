@@ -20,11 +20,11 @@
 
 
 "sites":[
-{"key":"csp_Ninemui","name":"👒ninemui 0721","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ninemui","name":"👒ninemui 0722","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"./jar/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"豆瓣indexs","name":"🔍豆瓣","type":3,"indexs":1,"api":"csp_DouDouGuard","jar":"./jar/cc_20240419.jpg","searchable":0,"changeable":0},
 {"key":"xyqxbpq_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
-{"key":"Ams_歐樂","name":"🍄歐樂影院💢新🚀","type":3,"api":"csp_OlyyAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Amns_歐樂","name":"🍄歐樂影院💢新🚀","type":3,"api":"csp_OlyyAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Amns-omjar_獨播庫","name":"🦁┃獨播庫┃🥇","type":3,"api":"csp_DubkAmns","jar":"./jar/omjar.png","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-獨播庫.json"},
 {"key":"drpy_9mui-iKanBot","name":"😎iKanBot🤖","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-iKanBot.js"},
 {"key":"xyqxbpq_泥視頻vip","name":"😚泥視頻VIP","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","编码":"UTF-8","嗅探词":".m3u8?#play.mtle.cn#.m3u8#.mp4","搜索url":"https://www.nivod.vip/s/{wd}-------------","影片类型":"module-info-tag\">&&立即播放","播放数组":"div class=\"module-play-list-content&&</div>","简介":"module-info-introduction-content\"&&</p>","简介详情":"简介：&&</p>","分类url":"https://www.nivod.vip/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/","分类":"電影$1#電視劇$2#綜藝$3#動漫$4","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日本剧$15#韩国剧$33#欧美剧$16#泰国剧$34#新馬剧$35#其他剧$25||國產综艺$27#港台综艺$28#日本综艺$29#韩國综艺$36#欧美综艺$30#新馬泰綜藝$37#其他综艺$38||国产动漫$31#日本动漫$32#韓國动漫$39#港台动漫$40#新馬泰$41動漫#欧美动漫$42#其他动漫$43","地区":"大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&韩国&香港&台湾&日本&美国&泰国&英国&加拿大&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他","排序":"时间$time#人气$hits#评分$score","剧情":"喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春&偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏&互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他"}},
@@ -33,12 +33,13 @@
 {"key":"Amns_愛壹帆","name":"😚愛壹帆","type":3,"api":"csp_AiyfAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xyqxbpq_9mui-麥田影視","name":"😚麥田影視🇭🇰","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-麥田影視.json"},
 {"key":"drpy_9mui-小寶影院","name":"😚小寶","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-小寶影院.js"},
-{"key":"Ams_AiGua","name":"😚愛瓜","type":3,"api":"csp_AiGuaAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Amns_AiGua","name":"😚愛瓜","type":3,"api":"csp_AiGuaAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PY_金牌影視","name":"😚金牌影視","type":3,"api":"./lib/金牌影視.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://jiabaide.cn,https://www.gs4x7nq4.com,https://y2s52n7.com,https://www.hkybqufgh.com,https://9zhoukj.com"}},
+{"key":"7png_Woshinidie","name":"😚橘汁","type":3,"jar":"./jar/7.png;md5;76d835a5c630383e9fd851399579220c","api":"csp_Woshinidie","searchable":1,"quickSearch":1,"changeable":0,"ext":{"host":"","version":"3.0.2.1","abid":"8192","pkg":"com.lxf.snzlcgtzxyx","keys":"DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==,OC1A06E197EF10CF3F6058CA7A803B5E","site":"https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt","pub":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"}},
 {"key":"Amns-omjar_JPian","name":"🎯薦片","type":3,"api":"csp_JPianAmns","jar":"./jar/omjar.png","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"./lib/jpian.json"},
-{"key":"Ams_伊外","name":"😚伊外","type":3,"api":"csp_YIysAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Ams_夏天","name":"😚夏天","type":3,"api":"csp_NewGrV2Amns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1,"ext":"e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"},
-{"key":"Ams_U视","name":"😚U视","type":3,"api":"csp_YspAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Amns_伊外","name":"😚伊外","type":3,"api":"csp_YIysAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Amns_夏天","name":"😚夏天","type":3,"api":"csp_NewGrV2Amns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1,"ext":"e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"},
+{"key":"Amns_U视","name":"😚U视","type":3,"api":"csp_YspAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"fm_cs_優視頻","name":"😚優視頻","type":3,"changeable":1,"api":"csp_Uvod","jar":"./jar/fm_cs.jar","searchable":1,"playerType":2,"filterable":1},
 
 
@@ -48,15 +49,13 @@
 {"key":"pianba","name":"😚片吧","type":3,"api":"csp_XBPQ","jar":"https://tvbox.catvod.com/catvod.jar","searchable":1,"quickSearch":1,"ext":"https://tvbox.catvod.com/js/pianba.json"},
 
 //短剧
-{"key":"xyqxbpq_紅果短劇","name":"🍉紅果短劇院🍙","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/短剧粉红果.json"},
-{"key":"jiqimao_軟鴨短劇","name":"🍉軟鴨短劇🍙","type":3,"api":"./lib/軟鴨短劇.py","jar":"./jar/jiqimao.png;md5;adabfce4b28d756777420f84794da8c1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xyqxbpq_短劇網","name":"🍉短劇網🍙","type":3,"api":"csp_XBPQ","api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
-{"key":"Amns_圍觀短劇","name":"🍉圍觀短劇🍙","type":3,"api":"csp_WgdjAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Amns_河馬短劇","name":"🍉河馬短劇🍙","type":3,"api":"csp_HemaAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Amns_拜拜短劇","name":"🍉拜拜短劇🍙","type":3,"api":"csp_BddjAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Amns_紅果短劇","name":"🍉紅果短劇🍙","type":3,"api":"csp_HgggAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Amns_好看短劇","name":"🍉好看短剧🍙","type":3,"api":"csp_HHkkAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Amns_全民短劇","name":"🍉全民短劇🍙","type":3,"api":"csp_QmdjAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Amns_星牙短劇","name":"🍉星牙短劇🍙","type":3,"api":"csp_XydjAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xyqxbpq_粉紅果短劇","name":"🍉粉紅果短劇院🍙","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/短剧粉红果.json"},
+{"key":"xyqxbpq_短劇網","name":"🍉短劇網🍙","type":3,"api":"csp_XBPQ","api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
+{"key":"Amns_拜拜短劇","name":"🍉拜拜短劇🍙","type":3,"api":"csp_BddjAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Amns_紅果短劇","name":"🍉紅果短劇🍙","type":3,"api":"csp_HgggAmns","jar":"./jar/1.png","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //資源網
