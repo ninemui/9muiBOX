@@ -17,7 +17,7 @@
 # Player Types: 1 = IJK, 2 = EXO, 0 = system
 
 "sites":[
-{"key":"csp_Ninemui","name":"👒ninemui 1006","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ninemui","name":"👒ninemui 1011","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"./jar/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"豆瓣indexs","name":"🔍豆瓣","type":3,"indexs":1,"api":"csp_DouDouGuard","jar":"./jar/cc_20240419.jpg","searchable":0,"changeable":0},
 {"key":"xyqxbpq_歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
