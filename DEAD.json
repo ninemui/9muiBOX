@@ -40,6 +40,7 @@
 
 //API - DEAD!
 //{"key":"HCCX_9mui-api豆瓣","name":"😈豆瓣資源api","type":3,"api":"csp_XBPQ","jar":"./jar/HCCX.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./api/9mui-api豆瓣.json"},
+//{"key":"HCCX_9mui-api茅台","name":"😈茅台資源api","type":3,"api":"csp_XBPQ","jar":"./jar/HCCX.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./lib/9mui-api茅台.json"},
 //{"key":"HCCX_9mui-api豪華","name":"😈豪華資源api","type":3,"api":"csp_XBPQ","jar":"./jar/HCCX.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./api/9mui-api豪華.json"},
 //{"key":"HCCX_9mui-api金鷹","name":"😈金鷹資源api🦅","type":3,"api":"csp_XBPQ","jar":"./jar/HCCX.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./api/9mui-api金鷹.json"},
 //{"key":"HCCX_9mui-api紅牛","name":"😈紅牛資源api🐮","type":3,"api":"csp_XBPQ","jar":"./jar/HCCX.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./api/9mui-api紅牛.json"},

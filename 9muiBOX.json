@@ -17,7 +17,7 @@
 # Player Types: 1 = IJK, 2 = EXO, 0 = system
 
 "sites":[	
-{"key":"csp_9muiBOX","name":"👒9muiBOX 1024","type":3,"api":"csp_9muiBOX","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_9muiBOX","name":"👒9muiBOX 1119","type":3,"api":"csp_9muiBOX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"./jar/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"豆瓣indexs","name":"🔍豆瓣","type":3,"indexs":1,"api":"csp_DouDouGuard","jar":"./jar/cc_20240419.jpg","searchable":0,"changeable":0},
 {"key":"xyqxbpq_歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
@@ -53,9 +53,9 @@
 
 //資源網
 {"key":"csp_資源網","name":"☛┃資源網┃☚","type":3,"api":"csp_資源網","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xml_芒果資源","name":"😈芒果資源🥭","type":1,"api":"https://caiji.mgzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","韩国剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","动作片","喜剧片","爱情片","科幻片","剧情片","动画片","恐怖片","Netflix电影","Netflix自制剧","4K电影","邵氏电影","女恋总裁","都市脑洞","闪婚离婚","现代言情","反转爽文","古装仙侠","重生民国","穿越年代","女频恋爱","漫剧","擦边短剧","爽文短剧","反转爽剧","年代穿越","脑洞悬疑","现代都市","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","国产动漫","日韩动漫","港台动漫","海外动漫"]},
 {"key":"csp_xml_新浪資源","name":"😈新浪資源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","动漫电影","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"csp_xml_茅台資源","name":"😈茅台資源","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","韩剧","香港剧","日本剧","台湾剧","泰国剧","海外剧","短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","动作片","爱情片","喜剧片","科幻片","剧情片","惊悚片","恐怖片","动漫电影"]},
-{"key":"HCCX_9mui-api茅台","name":"😈茅台資源api","type":3,"api":"csp_XBPQ","jar":"./jar/HCCX.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./lib/9mui-api茅台.json"},
 {"key":"csp_xml_豆瓣資源","name":"️😈豆瓣資源","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","韩剧","欧美剧","香港剧","日本剧","台湾剧","泰国剧","海外剧","短剧大全","动作片","爱情片","喜剧片","科幻片","剧情片","恐怖片","动漫电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫"]},
 {"key":"csp_xml_豪華資源","name":"😈豪華資源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["内地剧","欧美剧","香港剧","韩剧","日剧","台湾剧","马泰剧","短剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","爱情片","喜剧片","科幻片","剧情片","灾难片","犯罪片","奇幻片","悬疑片","动画片","恐怖片","战争片","记录片","伦理片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"csp_xml_光速資源","name":"😈光速資源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","海外剧","短剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","动漫电影","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
